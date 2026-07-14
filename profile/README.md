@@ -1,4 +1,4 @@
-# Lumino v0.1.1 Penguin Studio即将发布！！
+# Lumino v0.1.1 Penguin Studio已发布！！
 ![background](https://github.com/user-attachments/assets/d2b3f1fb-63ef-424f-8d17-722c7a5ad84c)
 ## 为什么叫Studio？
 ### 性能优化
